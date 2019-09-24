@@ -1,4 +1,3 @@
-ARG PHP_IMAGE_VERSION
 FROM k8sz/php7.3:1.0.0
 
 # Install Forego
